@@ -1,5 +1,7 @@
-numpy
-matplotlib
-scipy
-ipywidgets
-networkx
+PyPlot
+Interact
+Reactive
+Plots
+ImageFiltering
+TestImages
+ImageView
