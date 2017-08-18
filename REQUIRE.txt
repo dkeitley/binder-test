@@ -1,7 +1,0 @@
-PyPlot
-Interact
-Reactive
-Plots
-ImageFiltering
-TestImages
-ImageView
